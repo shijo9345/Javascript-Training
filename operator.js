@@ -3,11 +3,12 @@
 
 Arithmetic operators  +  -  *  **  /  %  ++  --
 Assignment Operators  =  +=  -=  *=  /=  %=  **= 
-Comparison Operators  == === != !=== > < >= <= 
+Comparison Operators  == === != !=== > < >= <= ? :
 Logical Operators     &&  ||  !
 Bitwise Operatora     &  |  ~  <<  >>  >>>
 
 */
+////////////
 a=10
 b=20
 console.log(a*b+a-b)     // without paranthesis
